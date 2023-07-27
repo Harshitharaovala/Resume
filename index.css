@@ -110,9 +110,10 @@ table
 }
 .project
 {
+    background-color: blue;
     color: white;
-    padding : 40px;
-    font-size: 200px;
+    padding : 6px;
+    width: 190px;
 }
 .duration
 {
