@@ -1,0 +1,121 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    padding: 50px;
+}
+
+.heading {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.heading h1 {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+
+}
+
+.email {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+hr {
+    border: 2px solid blue;
+    margin-bottom: 10px;
+}
+
+.objective {
+    padding: 10px 0px 20px 100px;
+
+}
+
+.eduction h1 {
+    background-color: blue;
+    padding: 10px;
+    width: 240px;
+    color: white;
+
+}
+
+.edution-histroy {
+    padding: 20px;
+}
+
+.college {
+    display: flex;
+    justify-content: space-between;
+}
+
+.technology
+{
+    background-color: blue;
+    color: white;
+    padding :10px;
+    width: 250px;
+}
+.details
+{
+    font-size: 20px;
+    padding: 40px 20px 20px 100px;
+}
+.employee{
+    background-color: blue;
+    color: white;
+    padding :6px;
+    width: 390px;
+    
+}
+.details
+{
+    padding:40px;
+}
+.profile
+{
+   background-color: blue;
+   color: white;
+   width: 400px;
+   padding: 6px;
+   
+   
+}
+table
+{
+    font-size: 20px;
+}
+.date
+{
+    display: flex;
+    justify-content: space-between;
+}
+.achivements
+{
+    background-color: blue;
+    color: white;
+    padding : 6px;
+    width: 250px;
+    margin: 8px;
+}
+.para
+{
+    font-size: 20px; 
+    padding: 20px; 
+}
+.project
+{
+    color: white;
+    padding : 40px;
+    font-size: 200px;
+}
+.duration
+{
+    font-size: 20px; 
+    padding: 20px;  
+}
